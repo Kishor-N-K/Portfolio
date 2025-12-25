@@ -272,7 +272,7 @@ body {
   display: flex;
   gap: 20px; /* 👈 This creates the gap between cards */
   width: max-content;
-  animation: scroll-left 100s linear infinite;
+  animation: scroll-left 25s linear infinite;
 }
 
 @keyframes scroll-left {
@@ -588,3 +588,4 @@ body {
     width: 100%;
   }
 }
+
